@@ -1,0 +1,157 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "Good morning",
+            "Good evening",
+            "How are you?",
+            "What's up?",
+            "How's it going?"
+        ],
+        "responses": [
+            "Hello! How can I assist you today?",
+            "Hi there! How can I help you?",
+            "Good day! What can I do for you?",
+            "Hey! How’s everything going?",
+            "Hello! What brings you here today?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "Goodbye",
+            "See you later",
+            "Take care",
+            "Catch you later",
+            "See you soon"
+        ],
+        "responses": [
+            "Goodbye! Have a great day!",
+            "Take care! See you later.",
+            "See you soon! Stay safe.",
+            "Goodbye, and come back anytime!"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thanks",
+            "Thank you",
+            "Thanks a lot",
+            "I appreciate it",
+            "You're the best",
+            "Thanks for your help"
+        ],
+        "responses": [
+            "You're welcome!",
+            "Glad I could help!",
+            "Anytime!",
+            "Happy to assist!",
+            "No problem at all!"
+        ]
+    },
+    {
+        "tag": "about",
+        "patterns": [
+            "What is your purpose?",
+            "Who are you?",
+            "Tell me about you",
+            "What can you do?",
+            "What do you help with?"
+        ],
+        "responses": [
+            "I’m a social media chatbot here to assist you with your social media needs.",
+            "I help you manage your social media accounts, suggest content ideas, and provide support with posts and engagement.",
+            "I’m here to enhance your social media experience, whether it's posting content, responding to messages, or exploring new trends.",
+            "I can help you stay connected on social media by providing tips and answering any questions you have about platforms and engagement."
+        ]
+    },
+    {
+        "tag": "content_creation",
+        "patterns": [
+            "Can you help me create content?",
+            "I need ideas for posts",
+            "Give me some content suggestions",
+            "How can I improve my posts?"
+        ],
+        "responses": [
+            "Sure! What type of content are you looking to create? I can help with captions, themes, or even graphics.",
+            "How about creating a post on trending topics in your niche? I can suggest a few ideas.",
+            "I suggest incorporating eye-catching visuals and engaging captions. Do you want help writing one?"
+        ]
+    },
+    {
+        "tag": "social_media_trends",
+        "patterns": [
+            "What's trending on social media?",
+            "Tell me about current social media trends",
+            "What are the latest trends?",
+            "Any viral trends I should know about?"
+        ],
+        "responses": [
+            "Right now, TikTok challenges and influencer collaborations are trending. Want me to help you hop on one of them?",
+            "Social media is buzzing with meme culture these days. Do you want to explore some of the top viral trends?",
+            "The latest trend is 'AI-generated content.' Want to know how to create your own?"
+        ]
+    },
+    {
+        "tag": "engagement_tips",
+        "patterns": [
+            "How can I increase engagement?",
+            "What are the best ways to grow my followers?",
+            "Can you help me get more likes?",
+            "How do I engage my audience better?"
+        ],
+        "responses": [
+            "To increase engagement, focus on posting consistently, using relevant hashtags, and interacting with your followers.",
+            "Running contests, sharing user-generated content, and posting during peak hours can help boost engagement.",
+            "Consider collaborating with influencers in your niche to increase your visibility and followers."
+        ]
+    },
+    {
+        "tag": "post_scheduling",
+        "patterns": [
+            "Can you schedule posts for me?",
+            "How can I schedule my social media posts?",
+            "Tell me how to set up post scheduling",
+            "Can you remind me to post later?"
+        ],
+        "responses": [
+            "I can suggest times to post, but you may need to use a third-party tool to schedule your posts in advance.",
+            "For post scheduling, I recommend using tools like Buffer, Hootsuite, or Sprout Social.",
+            "I can help you create a posting plan. Do you want suggestions for the best times to post?"
+        ]
+    },
+    {
+        "tag": "feedback",
+        "patterns": [
+            "How am I doing?",
+            "Can I give feedback?",
+            "I have feedback for you",
+            "Do you take feedback?"
+        ],
+        "responses": [
+            "I’d love to hear your feedback! Please let me know how I can improve.",
+            "I’m always open to feedback! Please share your thoughts.",
+            "Feedback is always welcome. What do you think?"
+        ]
+    },
+    {
+        "tag": "contact",
+        "patterns": [
+            "How can I contact you?",
+            "Is there a way to reach you?",
+            "Can I talk to a human?",
+            "Can I send you a message?"
+        ],
+        "responses": [
+            "You can chat with me anytime here! If you need to reach a human, I can direct you to customer support.",
+            "I’m always here to chat. For human support, please contact our help desk.",
+            "Feel free to reach out to me whenever you need assistance with social media!"
+        ]
+    }
+]
